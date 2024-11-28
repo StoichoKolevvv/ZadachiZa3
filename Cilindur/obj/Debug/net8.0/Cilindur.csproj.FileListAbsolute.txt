@@ -1,0 +1,14 @@
+C:\Users\1212-6\source\repos\Cilindur\bin\Debug\net8.0\Cilindur.exe
+C:\Users\1212-6\source\repos\Cilindur\bin\Debug\net8.0\Cilindur.deps.json
+C:\Users\1212-6\source\repos\Cilindur\bin\Debug\net8.0\Cilindur.runtimeconfig.json
+C:\Users\1212-6\source\repos\Cilindur\bin\Debug\net8.0\Cilindur.dll
+C:\Users\1212-6\source\repos\Cilindur\bin\Debug\net8.0\Cilindur.pdb
+C:\Users\1212-6\source\repos\Cilindur\obj\Debug\net8.0\Cilindur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-6\source\repos\Cilindur\obj\Debug\net8.0\Cilindur.AssemblyInfoInputs.cache
+C:\Users\1212-6\source\repos\Cilindur\obj\Debug\net8.0\Cilindur.AssemblyInfo.cs
+C:\Users\1212-6\source\repos\Cilindur\obj\Debug\net8.0\Cilindur.csproj.CoreCompileInputs.cache
+C:\Users\1212-6\source\repos\Cilindur\obj\Debug\net8.0\Cilindur.dll
+C:\Users\1212-6\source\repos\Cilindur\obj\Debug\net8.0\refint\Cilindur.dll
+C:\Users\1212-6\source\repos\Cilindur\obj\Debug\net8.0\Cilindur.pdb
+C:\Users\1212-6\source\repos\Cilindur\obj\Debug\net8.0\Cilindur.genruntimeconfig.cache
+C:\Users\1212-6\source\repos\Cilindur\obj\Debug\net8.0\ref\Cilindur.dll
